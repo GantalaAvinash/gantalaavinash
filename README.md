@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Youtube Badge](http://img.shields.io/badge/YouTube-LearnTechforFun-blue)](https://www.youtube.com/channel/UCA6OFeCDyLNYYyJP43fUN0g/)
+
 
 I'm Avinash Gantala Full Stack Web Developer The crossover between design and programming has always been of interest to me,  I have a wide range of skills that include back-end development using open source technologies (NodeJs, Mongodb, MySql), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, Bootstrap), Operating System(Windows, Linux, Parrot, Mac ),database(MongoDB, Mysql).
 
