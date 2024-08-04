@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gantalaavinash.info](https://gantalaavinash.info)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/pulse/steps-become-web-developer-tips-tricks-developers-avinash-gantala/?trk=public_profile_article_view](https://www.linkedin.com/pulse/steps-become-web-developer-tips-tricks-developers-avinash-gantala/?trk=public_profile_article_view)
+- 📝 articles [https://www.linkedin.com/pulse/steps-become-web-developer-tips-tricks-developers-avinash-gantala/?trk=public_profile_article_view](https://www.linkedin.com/pulse/steps-become-web-developer-tips-tricks-developers-avinash-gantala/?trk=public_profile_article_view)
 
 - 💬 Ask me about **MERN Stack**
 
