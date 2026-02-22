@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack MERN Developer 🚀 having an experience of building Web with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on ELearning Management System<br><br>🌱 I’m currently learning Devops<br><br>👨‍💻 All of my projects are available at https://gantalaavinash.info<br><br>📝 articles https://www.linkedin.com/pulse/steps-become-web-developer-tips-tricks-developers-avinash-gantala/?trk=public_profile_article_view<br><br>💬 Ask me about MERN Stack<br><br>📫 How to reach me gantalaavinash@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1rO0FGT91jTsou0d-QiZwX5AJEg6xmjCY/view?usp=sharing
+🔭 I’m currently working on ELearning Management System<br><br>🌱 I’m currently learning Devops<br><br><br>📝 articles https://www.linkedin.com/pulse/steps-become-web-developer-tips-tricks-developers-avinash-gantala/?trk=public_profile_article_view<br><br>💬 Ask me about MERN Stack<br><br>📫 How to reach me gantalaavinash@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1rO0FGT91jTsou0d-QiZwX5AJEg6xmjCY/view?usp=sharing
 
 
 ## 🌐 Socials:
